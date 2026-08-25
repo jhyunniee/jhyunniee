@@ -13,11 +13,19 @@ I'm a student aspiring to become a Software Engineer who enjoys building product
 - 데이터분석 준전문가 (ADsP) (2024.11)
 
 ## 🏆 Awards
+<b>🎖️ Award: MESH HACKATHON with AWS 대상</b>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project: 진짜보자
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Frontend
+<br/>
 
-| Award | Project | Role | Organization |
-|---|---|---|---|
-| MESH Hackathon x AWS 대상 | 진짜보자 | Frontend | MESH Hackathon |
-| 2026 숭실대학교 AI소프트웨어학부 소프트웨어공모전 은상 | PromptGuard Lite | Frontend, Backend | 숭실대학교 AI소프트웨어학부 |
+<b>🎖️ Award: 2026 숭실대학교 AI소프트웨어학부 AI소프트웨어공모전 은상</b>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project: PromptGuard Lite
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Frontend, Backend
+<br/>
 
 ## 🛠 Tech Stack
 
