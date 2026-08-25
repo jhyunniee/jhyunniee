@@ -72,3 +72,12 @@ I'm a student aspiring to become a Software Engineer who enjoys building product
 | [진짜보자](https://real-boja-fe.vercel.app/) | 조용해진 단톡방에 AI 약속 카드를 공유하고, 참여자 반응을 기반으로 실제 만남으로 이어주는 약속 재점화 서비스 | Frontend | 2026.06 |
 | myuniplanner | 스웨덴 대학생을 위한 시간표 제작 프로젝트 | Frontend | 2025.09 ~ 2025.10 |
 | [learn-language](https://ll.me.kr/) | 유튜브 외국어 콘텐츠를 통해 외국어를 쉽게 공부할 수 있게 도와주는 서비스 | Frontend, Backend | 2025.03 ~ 2025.06 |
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhyunniee&show_icons=true&theme=default&hide_border=true" alt="jhyunniee's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyunniee&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhyunniee&hide_border=true" alt="jhyunniee's GitHub streak" />
