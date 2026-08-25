@@ -73,11 +73,3 @@ I'm a student aspiring to become a Software Engineer who enjoys building product
 | myuniplanner | 스웨덴 대학생을 위한 시간표 제작 프로젝트 | Frontend | 2025.09 ~ 2025.10 |
 | [learn-language](https://ll.me.kr/) | 유튜브 외국어 콘텐츠를 통해 외국어를 쉽게 공부할 수 있게 도와주는 서비스 | Frontend, Backend | 2025.03 ~ 2025.06 |
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jhyunniee&show_icons=true&theme=default&hide_border=true" alt="jhyunniee's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyunniee&layout=compact&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhyunniee&hide_border=true" alt="jhyunniee's GitHub streak" />
