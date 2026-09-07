@@ -70,6 +70,6 @@ I'm a student aspiring to become a Software Engineer who enjoys building product
 | [OMO](https://omo.ai.kr/) | 워킹홀리데이, 교환학생, 인턴십을 준비하는 모든 사람을 위한 AI 기반 해외 생활 정보 플랫폼 | Frontend | 2026.07 ~ 2026.08 |
 | PromptGuard Lite | LLM 애플리케이션 전용 정적 보안 스캐너 | Frontend, Backend | 2026.06 ~ 2026.07 |
 | [진짜보자](https://real-boja-fe.vercel.app/) | 조용해진 단톡방에 AI 약속 카드를 공유하고, 참여자 반응을 기반으로 실제 만남으로 이어주는 약속 재점화 서비스 | Frontend | 2026.06 |
-| myuniplanner | 스웨덴 대학생을 위한 시간표 제작 프로젝트 | Frontend | 2025.09 ~ 2025.10 |
+| [myuniplanner](https://git.cs.umu.se/willys/myuniplanner) | 스웨덴 대학생을 위한 시간표 제작 프로젝트 | Frontend | 2025.09 ~ 2025.10 |
 | [learn-language](https://ll.me.kr/) | 유튜브 외국어 콘텐츠를 통해 외국어를 쉽게 공부할 수 있게 도와주는 서비스 | Frontend, Backend | 2025.03 ~ 2025.06 |
 
