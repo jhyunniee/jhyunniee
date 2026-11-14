@@ -11,6 +11,7 @@ I'm a student aspiring to become a Software Engineer who enjoys building product
 
 - 네트워크관리사 2급 (2024.10)
 - 데이터분석 준전문가 (ADsP) (2024.11)
+- 정보처리기사 (2026.09)
 
 ## 🏆 Awards
 <b>🎖️ Award: MESH HACKATHON with AWS 대상</b>
